@@ -1,8 +1,0 @@
-
-hello ,im Deepak sahu 
-and this is a text file
-i forgot to tell uh that , to insert the text ,we have press i
-and to save the changes ,we need to press esc+:+w
-and for save and exit 
-press esc +: +wq
-
